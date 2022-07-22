@@ -1,5 +1,7 @@
 body{
   font-family: "Urbanist";
+  background-color: #000000;
+  color:#fff;
 }
 a{
   color:#9F4A00;
@@ -142,4 +144,13 @@ a{
 #homepage a{
   color:#fff;
   text-transform: uppercase;
+}
+#rowevents{
+  position: absolute;
+  top:15%;
+  width:80%;
+  left:0;
+  right:0;
+  margin-left:auto;
+  margin-right:auto;
 }
